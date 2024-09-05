@@ -97,7 +97,7 @@
     "@react-spring/web": "9.5.5",
     "@signalapp/better-sqlite3": "8.6.0",
     "@signalapp/libsignal-client": "0.36.0",
-    "@signalapp/ringrtc": "2.34.5",
+    "@signalapp/ringrtc": "2.41.0",
     "@signalapp/windows-dummy-keystroke": "1.0.0",
     "@types/fabric": "4.5.3",
     "backbone": "1.4.0",
@@ -138,7 +138,7 @@
     "lottie-react": "2.4.0",
     "lru-cache": "6.0.0",
     "mac-screen-capture-permissions": "2.0.0",
-    "memoizee": "0.4.14",
+    "memoizee": "0.4.16",
     "moment": "2.29.4",
     "mp4box": "0.5.2",
     "node-fetch": "2.6.7",
@@ -184,7 +184,7 @@
     "urlpattern-polyfill": "9.0.0",
     "uuid": "3.3.2",
     "uuid-browser": "3.1.0",
-    "websocket": "1.0.34",
+    "websocket": "1.0.35",
     "zod": "3.22.3"
   },
   "devDependencies": {
